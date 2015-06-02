@@ -1,5 +1,6 @@
 <form method='post' accept-charset="windows-1251" id="form">
-	<table border=1>
+	<p><h2>Students</h2></p>
+    <table border=1>
 		<tr>
 			<td></td>
 			<td>Name</td>
